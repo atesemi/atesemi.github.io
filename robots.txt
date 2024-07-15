@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://atesemi.github.io/sitemap
+Sitemap: https://atesemi.github.io/app/sitemap
+Sitemap: https://atesemi.github.io/assets/sitemap
+Sitemap: https://atesemi.github.io/css/sitemap
+Sitemap: https://atesemi.github.io/includes/sitemap
+Sitemap: https://atesemi.github.io/item/sitemap
+Sitemap: https://atesemi.github.io/src/sitemap
